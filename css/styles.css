@@ -1,0 +1,73 @@
+body{
+	background-color: #cce5ff;
+}
+
+p{
+	font-size: 15px
+}
+
+a {
+	margin: auto;
+}
+
+.my-footer {
+	background-color: rgba(70, 70, 101, 0.14);
+}
+
+.profilepic {
+	max-width: 50%;
+	margin-bottom: 20px;
+}
+
+.description {
+	background-image: url("../img/beach.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.block {
+	background-color: #66a3ff;
+}
+
+.map {
+	color: white;
+}
+
+.bold {
+	color: white;
+}
+
+.intro {
+	color:blue;
+}
+
+h4{
+	font-size: 20px;
+}
+
+.pplanet {
+	max-width: 100%;
+	margin-bottom: 20px;
+}
+
+.border{
+	margin-top: 20px;
+}
+
+.card {
+	margin-bottom: 10px;
+}
+
+.anchor{
+	margin-right: 10px;
+}
+
+.oceans {
+	font-size: 35px;
+}
+
+.profile {
+	color:white;
+	font-size: 20px;
+}
+	
